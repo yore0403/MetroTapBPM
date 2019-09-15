@@ -2,7 +2,7 @@
 MetroTapBPM is an app for recording BPM and metronome.
 這是一款用來記錄BPM和節拍器的app
 
-<img width="360" src="https://github.com/yorex0403/MetroTapBPM/blob/master/Screenshot.png"/>
+<img width="240" src="https://github.com/yorex0403/MetroTapBPM/blob/master/Screenshot.png"/>
 
 點擊左方藍色按鈕切換BPM/毫秒(ms)模式
 
