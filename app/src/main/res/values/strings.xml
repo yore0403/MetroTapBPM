@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MetroTap BPM</string>
+    <string name="Tap">Tap</string>
+    <string name="Metronome">Metronome</string>
+    <string name="ms">ms</string>
+    <string name="BPM">BPM</string>
+    <string name="RESET">RESET</string>
+    <string name="O">0</string>
+    <string name="OO">.00</string>
+
+</resources>
